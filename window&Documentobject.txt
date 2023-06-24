@@ -1,0 +1,17 @@
+Diffenent between Window & Document object
+Document object and window object are both components of the document object model(DOM) in web browser.
+WINDOW 
+the window is the first thing that gets loaded into the browser.
+the window object has the majority of the properties like length, inner height, name, open, close move to resize etc...
+window is the global object.
+window object represent the browser window that contains the documents.
+it serves the global object in browser provide methods and properties for controlling and interecting with window
+It manipulate window size and position
+Document object
+document object is your html,php,aspx or other documents that will be loaded into the browsers
+the document actually gets loaded inside window object and properties available to it 
+the document represent html document itself and encapsulates the content and structure of the page 
+It provide method and properties to manipulate and interact with document elements example: modifying or removing the elements
+
+Document object represent the content and structure of the html document
+window object represent the browser window and provide methods for controlling and interacting with it
