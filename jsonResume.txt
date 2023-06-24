@@ -1,0 +1,18 @@
+let resume = {
+
+name  : "manojkumar"
+age   : "25"
+gender: "male"
+mail  : "manomk7870s@gmail.com"
+phone : "8668087376"
+
+experience = {
+    company name : "icici bank"
+    Role         : "Relationship manager"
+    start date   : "06/05/2022"
+    end date     : "present"
+    skills       :["sales","marketing","CRM"]   
+}
+
+
+};
